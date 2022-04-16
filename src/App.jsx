@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.css';
-import logo from './GABE.png';
+import logo from './PROPERLLERHEAD.png';
 import music from './TTTTT.mp3';
 import Sound from 'react-sound';
 import './App.css';
