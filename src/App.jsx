@@ -11,7 +11,7 @@ function App() {
   const playMusic = () => setPlayStatus('PLAYING');
 
   return (
-    <div className="App" onClick={playMusic} onMouseMove={playMusic}>
+    <div className="App" onClick={playMusic}>
       <header className="App-header">
         <h1>TTTTT</h1>
         <img src={logo} className="App-logo" alt="logo" />
