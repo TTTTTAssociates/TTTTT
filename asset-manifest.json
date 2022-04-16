@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa78c656.css",
-    "main.js": "/static/js/main.9e058d79.js",
-    "static/js/787.be7e65b9.chunk.js": "/static/js/787.be7e65b9.chunk.js",
-    "static/media/TTTTT.mp3": "/static/media/TTTTT.07cd0eb94478375811c2.mp3",
-    "static/media/PROPERLLERHEAD.png": "/static/media/PROPERLLERHEAD.e2cbbaa1c8fe18b366ed.png",
-    "index.html": "/index.html",
-    "main.fa78c656.css.map": "/static/css/main.fa78c656.css.map",
-    "main.9e058d79.js.map": "/static/js/main.9e058d79.js.map",
-    "787.be7e65b9.chunk.js.map": "/static/js/787.be7e65b9.chunk.js.map"
+    "main.css": "/TTTTT/static/css/main.fa78c656.css",
+    "main.js": "/TTTTT/static/js/main.6e681bc3.js",
+    "static/js/787.be7e65b9.chunk.js": "/TTTTT/static/js/787.be7e65b9.chunk.js",
+    "static/media/TTTTT.mp3": "/TTTTT/static/media/TTTTT.07cd0eb94478375811c2.mp3",
+    "static/media/PROPERLLERHEAD.png": "/TTTTT/static/media/PROPERLLERHEAD.e2cbbaa1c8fe18b366ed.png",
+    "index.html": "/TTTTT/index.html",
+    "main.fa78c656.css.map": "/TTTTT/static/css/main.fa78c656.css.map",
+    "main.6e681bc3.js.map": "/TTTTT/static/js/main.6e681bc3.js.map",
+    "787.be7e65b9.chunk.js.map": "/TTTTT/static/js/787.be7e65b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa78c656.css",
-    "static/js/main.9e058d79.js"
+    "static/js/main.6e681bc3.js"
   ]
 }
