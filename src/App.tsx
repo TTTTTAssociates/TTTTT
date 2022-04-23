@@ -19,7 +19,7 @@ function App() {
       <img src={logo} className="App-logo" alt="logo" />
       <p>CRAFTERS.</p>
       <UnlickableButton text={"Complaints? Click Here"} />
-      <Sound url={music} playStatus={playStatus} />
+      <Sound url={music} playStatus={playStatus} loop={true}/>
     </div>
   );
 }
