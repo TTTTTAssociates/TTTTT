@@ -20,7 +20,6 @@ function App() {
       <p>CRAFTERS.</p>
       <UnlickableButton text={"Complaints? Click Here"} />
       <Sound url={music} playStatus={playStatus} />
-      <script type="text/javascript" src="//counter.websiteout.net/js/28/4/0/1"></script>
     </div>
   );
 }
