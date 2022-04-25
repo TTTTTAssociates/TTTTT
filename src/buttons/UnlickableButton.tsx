@@ -1,4 +1,5 @@
 import { MouseEvent, useState } from "react";
+import "./UnlickableButton.css"
 
 type UnclickableButtonProps = {
   text: string;
@@ -35,15 +36,13 @@ export const UnlickableButton = (props: UnclickableButtonProps) => {
   };
 
   return (
-    <div onMouseMove={handleMouseMove}>
+    <div onMouseMove={handleMouseMove} className="UnclickableButton" style={{
+      left: `${buttonPosition.x}px`,
+      top: `${buttonPosition.y}px`,
+    }}>
       <button
         onClick={runAway}
         onMouseOver={runAway}
-        style={{
-          left: `${buttonPosition.x}px`,
-          top: `${buttonPosition.y}px`,
-          position: "fixed",
-        }}
       >
         {props.text}
       </button>
